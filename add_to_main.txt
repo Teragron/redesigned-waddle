@@ -1,0 +1,2 @@
+hi, I'm trying to add a txt file to the main branch using sourcetree, the
+branch names are confusing
